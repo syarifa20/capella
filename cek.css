@@ -17,7 +17,7 @@ body{
   
   .body{
     width: 380px;
-    height: 650px;
+    height: 609px;
     background: #fff;
     border-radius: 5px;
     transition: height 0.2s ease;
@@ -84,10 +84,10 @@ body{
   }
   .box{
   
-    font-size: 10px;
+    font-size: 9px;
     color:  #191970;
     border: 1px solid;
-    max-width: 38%;
+    max-width: 34%;
     border-radius: 8px;
    
   }
@@ -97,7 +97,7 @@ body{
     color:  #191970;
   }
   .normal{
-    font-size: 10px;
+    font-size: 9px;
     color: green;
   }
   .cekfilter{
